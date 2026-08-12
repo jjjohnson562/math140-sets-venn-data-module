@@ -10,10 +10,10 @@ The activity progresses from two-set to three-set Venn diagrams and gives studen
 
 This repository includes:
 
-- **Student Activity** – guided classroom activity using sets, Venn diagrams, and real-world data
-- **Excel Dataset** – simplified dataset used during the activity
-- **Solutions** – completed solutions for the student activity
-- **Lesson Plan** – approximately two-hour classroom implementation plan
+- **[Student Activity](https://github.com/jjjohnson562/math140-sets-venn-data-module/blob/main/Math%20140%20Application%20of%20Sets%20and%20Venn%20Diagrams%20Using%20Excel.pdf)** – guided classroom activity using sets, Venn diagrams, and real-world data
+- **[Excel Dataset](https://github.com/jjjohnson562/math140-sets-venn-data-module/blob/main/Math140%20Sets%20Ecology%20Data%20-%20Revised.xlsx)** – simplified dataset used during the activity
+- **[Solutions](https://github.com/jjjohnson562/math140-sets-venn-data-module/blob/main/Math%20140%20Application%20of%20Sets%20Solutions.pdf)** – completed solutions for the student activity
+- **[Lesson Plan](https://github.com/jjjohnson562/math140-sets-venn-data-module/blob/main/Math%20140%20Data%20Science%20Lesson%20Plan.pdf)** – approximately two-hour classroom implementation plan
 
 ## Course Information
 
